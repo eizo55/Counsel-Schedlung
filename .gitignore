@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets / local config
+.env
+*.key
+*.pem
+
+# Word temp/lock files
+~$*
